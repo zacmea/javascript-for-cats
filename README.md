@@ -1,7 +1,7 @@
 <span class="bigTitle">JavaScript For Cats</span>
 ## An introduction for new programmers <span class="right">![cat](images/substack-cats.png)</span>
 ### *So easy your human companion could do it too!*
-
+//This is me making an edit to this file.
 JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things. Just the same as one controls humans with hisses and meows, one controls computers with statements written in a programming language. All web browsers understand JavaScript and you can take advantage of that to make web pages do crazy things!
 
 JavaScript started as a way to make web pages more interactive. Nowadays JavaScript runs in more places than just web browsers &mdash; it runs on web servers, phones and even robots! This page will teach you some JavaScript basics so that you can get up and running in no time*.
